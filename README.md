@@ -1,4 +1,4 @@
-[![MasterHead](https://stock.adobe.com/in/search?k=front+end+developer)]
+(https://stock.adobe.com/in/search?k=front+end+developer)]
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> 
