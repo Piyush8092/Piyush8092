@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/piyush_8092" target="blank"><img src="https://img.shields.io/twitter/follow/piyush_8092?logo=twitter&style=for-the-badge" alt="piyush_8092" /></a> </p>
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,NODE,MONGODB.**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,NODE,MONGODB,NEXTJS,REACT NATIVE,FLUTTER,FIREBASE. .**
 
-- 📫 How to reach me **piyushkumarbhumihara@gmail.com**
+- 📫 How to reach me **piyush@clienzon.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
